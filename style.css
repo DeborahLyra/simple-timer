@@ -1,15 +1,15 @@
-body{
+body {
     background-color: rgb(224, 188, 228);
 }
 
-div{
+div {
     text-align: center;
     margin-top: 200px;
     font-size: 50px;
     color: white;
 }
 
-button{
+button {
     height: 4em;
     width: 6em;
     border: 2px solid rgb(155, 109, 198);
@@ -21,10 +21,10 @@ button{
     font-weight: bold;
 }
 
-.stopButton{
-    background-color:  rgb(113, 67, 157);
+.stopButton {
+    background-color: rgb(113, 67, 157);
 }
 
-button:hover{
+button:hover {
     background-color: rgb(155, 109, 198);
 }
